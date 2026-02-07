@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# VS Code
+.vscode/
+
+# Config (Optional: If you don't want to share your specific paths)
+# config.py
+
+# Env
+.venv/
+env/
